@@ -45,3 +45,5 @@ let idUsuario2: idUsuario = "Laura"
 
 console.log(`Estado operacion: ${estadoOperaciones}, Id usuario 1: ${idUsuario1}`);
 
+
+
