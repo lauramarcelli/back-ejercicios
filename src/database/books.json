@@ -1,0 +1,94 @@
+{
+  "info": {
+    "name": "Books Database",
+    "version": "1.0.0",
+    "total": 1
+  },
+  "books": [
+    {
+      "id": 1,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien"
+    },
+    {
+      "id": 2,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien"
+    },
+    {
+      "id": 3,
+      "title": "The Silmarillion",
+      "author": "J.R.R. Tolkien"
+    },
+    {
+      "id": 4,
+      "title": "The Two Towers",
+      "author": "J.R.R. Tolkien"
+    },
+    {
+      "id": 5,
+      "title": "The Return of the King",
+      "author": "J.R.R. Tolkien"
+    },
+    {
+      "id": 6,
+      "title": "The Children of Hurin",
+      "author": "J.R.R. Tolkien"
+    },
+    {
+      "id": 7,
+      "title": "Brave New World",
+      "author": "Aldous Huxley"
+    },
+    {
+      "id": 8,
+      "title": "The Stranger",
+      "author": "Albert Camus"
+    },
+    {
+      "id": 9,
+      "title": "1984",
+      "author": "George Orwell"
+    },
+    {
+      "id": 10,
+      "title": "Cien anos de soledad",
+      "author": "Gabriel Garcia Marquez"
+    },
+    {
+      "id": 11,
+      "title": "El principito",
+      "author": "Antoine de Saint-Exupery"
+    },
+    {
+      "id": 12,
+      "title": "El libro de la Selva",
+      "author": "Antoine de Saint-Exupery"
+    },
+    {
+      "id": 13,
+      "title": "Daylan Kifki",
+      "author": "María Elena Walsh"
+    },
+    {
+      "id": 14,
+      "title": "Little women",
+      "author": "Louisa May Alcott"
+    },
+    {
+      "id": 15,
+      "title": "El mundo de Sofía",
+      "author": "Jostein Gaarder"
+    },
+    {
+      "title": "Las Brujas - Magic Finger",
+      "author": "Roald Dahl",
+      "id": 16
+    },
+    {
+      "title": "Super Zorro",
+      "author": "Roald Dahl",
+      "id": 18
+    }
+  ]
+}
