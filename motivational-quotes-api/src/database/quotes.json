@@ -1,0 +1,30 @@
+{
+  "info": {
+    "name": "Quotes Database",
+    "version": "1.0.0",
+    "totalQuotes": 5,
+    "total": null
+  },
+  "quotes": [
+    {
+      "id": "1",
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": "2",
+      "text": "Si la vida te da limones, come limones.",
+      "author": "Laura"
+    },
+    {
+      "id": "3",
+      "text": "Un pajaro sin patas duerme en el viento",
+      "author": "Tennessee Williams"
+    },
+    {
+      "text": "Imposibol",
+      "author": "CeciHace",
+      "id": "4"
+    }
+  ]
+}
